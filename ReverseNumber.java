@@ -18,7 +18,6 @@ public class ReverseNumber {
 		}
 		System.out.println("Original Number : " + original);
 		System.out.println("Reverse Number : " + reverse);
-		
 		sc.close();
 	}
 
